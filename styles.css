@@ -1,0 +1,148 @@
+
+.highlight {
+
+font-style: italic;
+text-decoration: underline;
+font-weight: bold;
+
+}
+
+.center {
+
+text-align: center;
+
+}
+
+
+#intro {
+
+background-color: white;
+padding: 20px; 
+
+}
+
+body {
+
+font-family: Arial, Verdana, sans-serif;
+background-color: aliceblue;
+
+}
+
+
+h1 {
+
+color: black;
+text-align: center;
+font-size: 3em;
+text-shadow: 2px 2px 2px dimgray;
+    
+}
+
+h2 {
+
+color: midnightblue;
+text-align: center;
+padding: 30px;
+
+}
+
+p {
+
+line-height: 1.5;
+
+
+}
+
+
+ ol {
+
+margin: 10px;
+list-style-type: square ;
+list-style-position: inside; 
+
+}
+
+
+nav {
+
+background-color: steelblue;
+padding: 20px;
+
+}
+
+
+
+nav li {
+
+list-style-type: none;
+display: inline;
+margin: 30px;
+
+}
+
+nav a {
+
+color: white;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+nav a:focus {
+
+color: black;
+
+}
+
+
+section {
+
+margin: 15px;
+padding: 15px;
+background-color: white;
+border-radius: 20px;
+
+}
+
+
+form {
+
+margin: 15px;
+
+}
+
+input, textarea {
+
+width: 85%;
+padding: 10px;
+margin-top: 10px;
+
+}
+
+
+button {
+
+background-color: steelblue;
+color: white;
+border-style: solid;
+padding: 15px;
+
+}
+
+button:hover {
+
+background-color: green;
+
+}
+
+
+footer {
+
+background-color: steelblue;
+color: white;
+text-align: center;
+padding: 30px;
+
+}
